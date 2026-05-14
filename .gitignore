@@ -1,0 +1,20 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# IDE files
+.idea/
+*.iml
+
+# Sensitive information
+local.properties
+google-services.json
+*.jks
+*.keystore
+
+# Local configuration
+local.defaults.properties
+
+# Logs
+*.log
